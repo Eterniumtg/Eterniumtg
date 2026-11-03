@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Eterniumtg_Code,Create,Innovate.png" width="100%" alt="Eterniumtg Developer Banner">
+</p>
 # 👋 Hi, I'm Will!
 
 ### 🎮 Aspiring Game Developer | 💻 Software Developer | 🚀 Lifelong Learner
